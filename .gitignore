@@ -1,0 +1,4 @@
+# Ignore all CSV data files
+*.csv
+CRMLSSold/
+.venv/
